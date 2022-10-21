@@ -3,5 +3,5 @@
 .vscode
 obj/Debug/net6.0/Seminar2.GeneratedMSBuildEditorConfig.editorconfig
 obj/Debug/net6.0/Seminar2.assets.cache
-**/Debug
-**/net6.0
+**/Debug/**
+**/net6.0/**
